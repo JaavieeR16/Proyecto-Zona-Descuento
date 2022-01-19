@@ -1,0 +1,25 @@
+/* ////////// ESTILO PAGINA /////////*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body{
+    background: #d1d1d1;
+}
+
+/* ////////// ESTILO PAGINA /////////*/
+
+.terminos{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 10px;
+}
+
+.titulo{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

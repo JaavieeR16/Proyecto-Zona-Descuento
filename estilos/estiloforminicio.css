@@ -1,0 +1,118 @@
+/* ////////// ESTILO FORMULARIO INICIO SESIÓN /////////*/
+
+/* /////////// ESTILO PÁGINA GENERAL ///////// */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2358a1;
+    background-size: 100%;
+}
+
+header{
+    width: 100%;
+    height: 240px;
+}
+
+/* /////////// ESTILO PÁGINA GENERAL ///////// */
+
+/* ////////////// ESTILO LOGO ////////////// */
+
+.milogo{
+    width: 240px;
+    height: 240px;
+}
+
+/* ////////////// ESTILO LOGO ////////////// */
+
+/* ////////// ESTILO CAJA INICIO //////// */
+
+.registro {
+    width: 400px;
+    background-color: #fff;
+    padding: 30px;
+    margin: auto;
+    margin-top: 0px;
+    border-radius: 4px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    border: 2px solid #000;
+}
+
+.registro h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+.caja {
+    width: 100%;
+    background: #3e72ff;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #3e72ff;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+::placeholder{
+    color: #fff;
+}
+
+.registro p {
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 40px;
+    color: #000;
+    font-weight: bold;
+}
+
+.registro a {
+    color: white;
+    text-decoration: none;
+    color: #000;
+}
+
+.registro a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+.registro .boton {
+    width: 100%;
+    background: #3e72ff;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0px;
+    font-size: 16px;
+}
+
+/* ////////// ESTILO CAJA INICIO //////// */
+
+/* ///////// ESTILO TEXTOS ///////// */
+
+.mal{
+    text-align: center;
+    color: #fff;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top: 20px;
+}
+
+.mal2{
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/* ///////// ESTILO TEXTOS ///////// */
+
+/* ////////// ESTILO FORMULARIO INICIO SESIÓN /////////*/
